@@ -7,6 +7,9 @@ public class GitHubDummy {
 		for (int i = 0; i < 4; i++){
 			System.out.println("I'm ready!");
 		}
+		Spongebob Spongedude = new Spongebob();
+		Spongedude.feels();
+		Spongedude.hey();
 	}
 
 }
